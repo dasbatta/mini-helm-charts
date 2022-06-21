@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  demo-chart:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-06-21T04:47:20.149293012Z"
+    description: Basic Ruby Hello Wworld application
+    digest: d7da9575c3339c2388f5ba0b88ebc13691be4a2ada4c111588cbc5e9ef9f171d
+    maintainers:
+    - email: dbatta@vmware.com
+      name: Das Batta
+    name: demo-chart
+    type: application
+    urls:
+    - https://github.com/dasbatta/mini-helm-charts/releases/download/demo-chart-0.1.0/demo-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-21T04:47:19.945798423Z"
