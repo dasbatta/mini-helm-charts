@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  demo-chart:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-06-20T20:43:11.525687-07:00"
+    description: Basic Ruby Hello Wworld application
+    digest: 2951a08b9ff46f757324a6e3c56be99a0f520738523b419c96a9cada93ea429b
+    maintainers:
+    - email: dbatta@vmware.com
+      name: Das Batta
+    name: demo-chart
+    type: application
+    urls:
+    - demo-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-20T20:43:11.524954-07:00"
